@@ -22,10 +22,16 @@
    <h6> &nbsp;&nbsp; DataBase :</h6>
    <img src="https://3wa.fr/wp-content/uploads/2020/04/sql-logo.png" width="30" height="30" alt="SQL"/>
    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="30" height="30" alt="MySQL"/>
+   <img src="https://allvectorlogo.com/img/2017/02/oracle-database-logo.png" width="30" height="30" alt="OracleDB"/>
   </div>
+ <!---
+   <div>
+   <h6> &nbsp;&nbsp; Others :</h6>
+   <img src="https://servicenav.coservit.com/wp-content/uploads/2021/05/203.jpg" width="30" height="30" alt="Docker"/>
+  </div>
+ ----->
 </div>
-<br>
-<br>
+
 <h3> &nbsp;&nbsp; Find me arround the web :earth_africa: </h3>
 
 <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="20" height="20" alt="Email"/> <a href = "mailto:nouhaila.karimallah@etu.uae.ac.ma"> <strong>  nouhaila.karimallah@etu.uae.ac.ma  </strong> </a>
